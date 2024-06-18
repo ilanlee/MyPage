@@ -1,8 +1,8 @@
 <script>
     import SocialIcons from '@rodneylab/svelte-social-icons';
-    const linkedinUrl = 'https://www.linkedin.com/in/ilanlifshitz'; 
-    const githubUrl = 'https://github.com/musebrheako';     
-    const whatsappUrl = 'https://wa.me/+14345173443';         
+    const linkedinUrl = 'https://www.linkedin.com/in/ilanlifshitz';
+    const githubUrl = 'https://github.com/ilanlee';
+    const whatsappUrl = 'https://wa.me/+14345173443';
   </script>
   
   <div class="container mx-auto px-4 py-8 flex justify-center space-x-6">
